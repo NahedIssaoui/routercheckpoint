@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(14, 1, 1);
+}
+
+h1 {
+    color: bisque;
+}
+.video-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ 
+  }
+  
+  .iframe-wrapper {
+    width: 560px; 
+    height: 315px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
